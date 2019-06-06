@@ -1,4 +1,4 @@
 New file start
 New line add
 Adding feature 1.1
-Adding feature 1.2 Modify feature 1.2
+Change feature 1.2
