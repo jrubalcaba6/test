@@ -1,1 +1,2 @@
-New file 2
+New file 2 help
+New line 3
